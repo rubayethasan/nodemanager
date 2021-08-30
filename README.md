@@ -1,5 +1,5 @@
 # Title 
-Node Manager
+Node Manager Backend
 
 ## Description
 A CRUD Application With Spring Boot and RESTful API. GET, POST, PUT and DELETE controller methods are implemented.
