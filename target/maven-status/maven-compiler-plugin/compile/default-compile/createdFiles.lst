@@ -1,0 +1,4 @@
+com/rubayet/nodemanager/repository/ClientRepository.class
+com/rubayet/nodemanager/model/Client.class
+com/rubayet/nodemanager/NodemanagerApplication.class
+com/rubayet/nodemanager/controller/ClientsController.class
