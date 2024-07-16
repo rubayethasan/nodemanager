@@ -1,5 +1,5 @@
 # Title 
-Node Manager
+Node Manager, A CRUD Application With React, Spring Boot and RESTful API. GET, POST, PUT and DELETE controller methods are implemented.
 
 ## Description
 A CRUD Application With React, Spring Boot and RESTful API. GET, POST, PUT and DELETE controller methods are implemented.
